@@ -1,0 +1,11 @@
+/* Global Font Application */
+* {
+  font-family: var(--font-primary) !important;
+  color: var(--text-color) !important;
+  font-size: 15px;
+}
+
+code, pre {
+  font-family: var(--font-code) !important;
+  color: #c9fff1 !important;
+}

@@ -1,0 +1,10 @@
+/* Button Styling */
+button,
+[role="button"],
+[class*="button"] {
+  border-radius: var(--radius) !important;
+  background-color: var(--accent-color) !important;
+  color: var(--mention-color) !important;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
